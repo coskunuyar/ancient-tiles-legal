@@ -5,6 +5,7 @@ Ancient Tiles incorporates SVG icon assets distributed under the [Creative Commo
 ## Graphic & UI Assets
 
 - [3D Coins Set](https://www.magnific.com/free-vector/3d-coins-set_31243740.htm) via Magnific
+- [Treasure Chests Isometric Cartoon Icon Set](https://www.magnific.com/free-vector/treasure-chests-isometric-cartoon-icon-set_9457331.htm) via Magnific
 
 ## Artists & Creators
 
