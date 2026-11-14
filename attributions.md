@@ -1,6 +1,10 @@
 # Attributions & Third-Party Licenses
 
-Ancient Tiles incorporates SVG icon assets distributed under the [Creative Commons Attribution 3.0 / 4.0](https://creativecommons.org/licenses/by/4.0/) licenses, sourced via [SVGOwl](https://svgowl.com/).
+Ancient Tiles incorporates SVG icon assets distributed under the [Creative Commons Attribution 3.0 / 4.0](https://creativecommons.org/licenses/by/4.0/) licenses, sourced via [SVGOwl](https://svgowl.com/), and vector assets from [Magnific](https://www.magnific.com/).
+
+## Graphic & UI Assets
+
+- [3D Coins Set](https://www.magnific.com/free-vector/3d-coins-set_31243740.htm) via Magnific
 
 ## Artists & Creators
 
@@ -56,3 +60,4 @@ The following artists created icons and graphic assets used within the game:
 
 ---
 *For privacy policies and legal documentation, visit [Ancient Tiles Legal](https://coskunuyar.github.io/ancient-tiles-legal/privacy-policy).*
+
